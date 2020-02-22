@@ -27,7 +27,7 @@
   </PIN>
   <PIN pinname="Attribute Name" visible="1" values="|href|">
   </PIN>
-  <PIN pinname="Attribute Value" visible="1" values="|https://nahui-ocelotl.github.io/vvvv.js/#edit/patch.v4p|">
+  <PIN pinname="Attribute Value" visible="1" values="|/vvvv.js/#edit/patch.v4p|">
   </PIN>
   <PIN pinname="Attribute BinSize" visible="1">
   </PIN>
